@@ -6,7 +6,7 @@ import Portfolio from "./pages/Portfolio.jsx";
 
 function App() {
   return (
-    //<div className="app">
+
     <>
       <BrowserRouter>
         <Navbar></Navbar>
@@ -19,7 +19,6 @@ function App() {
       </BrowserRouter>
     </>
 
-    //  </div>
   )
 }
 
