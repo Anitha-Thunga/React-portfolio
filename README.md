@@ -19,7 +19,9 @@ Then Connected everything together!  
 
 Added a preview button to the project page:  
 
-Created a button at the top of projects page. By default, the page should is blank. whenever the user clicks the button, shows all my projects will show up.  
+Created a button at the top of projects page. By default, the page should is blank. whenever the user clicks the button, shows all my projects will show up. 
+
+Added popup window to my portfolio.
 
 Keys skills required:
 HTML,CSS
