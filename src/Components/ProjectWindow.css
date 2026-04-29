@@ -1,0 +1,16 @@
+
+.close-button{
+  color:blue;
+  width:30%;
+  height:10%;
+}
+.name{
+  color:brown;
+  text-align: left;
+  text-decoration: double;
+}
+.tech, .description, .role,.challenges {
+  color:black;
+  font-weight: bold;
+  font-size: small;
+}
