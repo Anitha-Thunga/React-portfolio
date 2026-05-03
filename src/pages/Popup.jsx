@@ -15,7 +15,7 @@ function Popup() {
   };
   return (
     <div>
-      <h1 className="portfolio-name">My portfolio</h1>
+      <h1 className="portfolio-name">Check here to see my popup window</h1>
       <button onClick={() => setIsOpen(true)}>Open popup<br/></button>
 
       {isOpen && (
